@@ -1,0 +1,11 @@
+Sgit: git minifier
+
+Sgit is a git minifier written in D.
+
+sgit -i (initialize new git repository)
+
+sgit -r REMOTE (optional)
+
+sgit -b "NAME" (required if initializing)
+
+
