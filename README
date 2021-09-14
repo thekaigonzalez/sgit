@@ -8,4 +8,10 @@ sgit -r REMOTE (optional)
 
 sgit -b "NAME" (required if initializing)
 
+You can install Sgit by typing
 
+gitstrap install sgit
+
+OR 
+
+sudo make install
